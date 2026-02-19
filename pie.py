@@ -281,3 +281,5 @@ def checker_login():
      time.sleep(1)
      checker_login()
 checker_login()
+print("This is a log message.")
+input("Press Enter to exit...")
